@@ -4,7 +4,7 @@ title: Support
 nav_order: 95
 ---
 
-## Table of contents
+## 目录
 {: .no_toc .text-delta }
 
 1. TOC
@@ -12,21 +12,20 @@ nav_order: 95
 
 ---
 
-## Support
-Parks on the Air has a volunteer-staffed support desk available 7 days a week to answer your technical and non-technical questions. [Simply send an email to help@parksontheair.com](mailto:help@parksontheair.com) to:
+## 支持
+只需发送邮件至： [help@parksontheair.com](mailto:help@parksontheair.com)，空中公园（Parks on the Air）里的志愿者们，可以解答您的任何问题：
 
-* Receive support for your POTA Account and login
-* Receive support for using the [https://pota.app](https://pota.app) website
-* Get help with corrections/removal of previously submitted logs
-* Submit requests for new parks or entities to be added to the POTA system
-* Submit bug reports for the website
-* Submit enhancement requests for the website
-* File a concern about a potential rules violation
+* 有关 POTA 账号的问题
+* 有关 [https://pota.app](https://pota.app) 站点的问题
+* 有关已提交的日志更正或删除的问题
+* 提交新公园信息到 POTA 系统
+* 提交站点 Bug 
+* 提交站点的改进建议
+* 提交潜在的违规信息
 
-### Common Support Items
-* Parks on the Air does not provide browser specific support, however our websites (parksontheair.com, pota.app, and docs.pota.app) should all work fine on Chrome (and chrome/chromium-based browsers), Safari, Firefox, and versions of Edge released since January 15th, 2020. Internet Explorer is no longer supported by Microsoft.
+### 常见问题
+* Parks on the Air 不需要用特殊的浏览器访问， POTA 的站点 （ parksontheair.com， pota.app，和 docs.pota.app ） 都可以在 Chrome（或者基于 chrome/chromium 内核的浏览器）， Safari， Firefox， 以及 2020 年 1 月 15 号之后发布的 Edge 浏览器上，都可以获得良好的体验。 IE 浏览器将不再受微软支持.
 
-* Many user issues are solved by restarting their browser or clearing their browser's cookies or cache, so please take those steps before submitting a ticket with an issue related to the website. Whenever possible, include specific error codes or screenshots in your submitted tickets.
+* 在大部分情况下，可以通过清除浏览器的 Cookie 信息，或者重启浏览器来解决故障问题，所以，在提交问题时，建议先尝试如上步骤。如果可以的话，在提交问题的时候，请带上对于的错误代码或者截图信息。
 
-* If you have just signed up for Parks on the Air, it can take up to 48 hours for contacts made before registering to start appearing for stats and awards.
-
+* 如果您是刚刚注册了 POTA（Parks on the Air），可能需要 48 小时后才能开始显示统计和奖状信息。
