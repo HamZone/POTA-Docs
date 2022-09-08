@@ -16,7 +16,7 @@ Original Author: AB1WX
 {:toc}
 
 
-# POTA CW QSOs
+# POTA CW 通联
 
 POTA does not require any specific exchange in a QSO. So, the POTA QSOs can be a super-fast contest style or a ragchew style, but most POTA QSOs are polite, unrushed, and concise.
 
