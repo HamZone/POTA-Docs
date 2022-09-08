@@ -18,7 +18,7 @@ Original Author: AB1WX
 
 # POTA CW 通联
 
-POTA does not require any specific exchange in a QSO. So, the POTA QSOs can be a super-fast contest style or a ragchew style, but most POTA QSOs are polite, unrushed, and concise.
+POTA 在 QSO 中不需要任何特定的交换信息。因此，POTA 的 QSO 可以像比赛一样快速或缓慢的闲聊，但大多数 POTA 的 QSO 是基于礼貌、简洁和淡定自如的。
 
 POTA QSOs often include simple greetings, like "GM," "GA," or "GE," and sometimes the CW handle or the first name if you know them. QSOs usually include a realistic RST signal report, not a perfunctory 559 or 599. Hunters usually send their QTH (two-letter state code for the US and Canada), but DX hunters may use established State/Province/Country codes (e.g., SKCC has a list) or omit the QTH.
 
