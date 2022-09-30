@@ -1,7 +1,7 @@
 ---
 layout: default
-title: My Activations Page
-parent: pota.app Help Docs
+title: 我的活动页面
+parent: pota.app 帮助文档
 nav_order: 40
 permalink: /pota_app/user/activations.html
 ---
@@ -9,10 +9,10 @@ permalink: /pota_app/user/activations.html
 ![](images/pota-256x256.png)
 
 
-**Table of Contents**
-1. TOC
+**目录**
+1. 目录
 {:toc}
 ---
 
-## My Activations Page
-Help Docs Under Construction
+## 我的活动页面
+帮助文档正在构建中

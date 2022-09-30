@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Top Hunters Page
-parent: pota.app Help Docs
+title: 猎人排行页面
+parent: pota.app 帮助文档
 nav_order: 150
 permalink: /pota_app/hunters.html
 ---
@@ -9,10 +9,10 @@ permalink: /pota_app/hunters.html
 ![](images/pota-256x256.png)
 
 
-**Table of Contents**
-1. TOC
+**目录**
+1. 目录
 {:toc}
 ---
 
-## Top Hunters Page
-Help Docs Under Construction
+## 猎人排行页面
+帮助文档正在构建中

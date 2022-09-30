@@ -1,80 +1,78 @@
 ---
 layout: default
-title: Digital Modes Guide
+title: 数字模式指南
 nav_order: 53
 ---
 
-**Parks on the Air® Digital modes Guide**
+**空中公园® 数字模式指南**
 
 ![](/assets/images/pota-256x256.png)
 
-Copyright 2022
+版权所有 2022
 
-Original Author: W8MSC
+原作者：W8MSC
 
 
-**Table of Contents**
-1. TOC
+**目录**
+1. 目录
 {:toc}
 
-# Digital modes for POTA activators
+# 使用数字模式激活空中公园
 
-This guide contains some best practices and hints to help activators run digital modes from a park.
+本指南包含使用数字模式激活空中公园的一些最佳实践和提示。
 
 
-# Before you start
+# 在开始之前
 
-Operating digital modes during your activation adds complexity to your portable station.
+请记住使用数字模式激活空中公园增加了你的便携电台的复杂性。
 
-To help activators prepare, here are some common hints:
+这里有些进行激活空中公园前的准备工作的一般建议：
 
-* Run updates on your computer and keep them current.
-* Use a GPS dongle with PPS (Pulse Per Second) for accurate time. This is especially important when using WSJT-X. [BktTimeSync](https://www.maniaradio.it/en/bkttimesync.html) can read accurate time from GPS satellites to keep your computer clock accurate.
-* Have an sun shade or anti-glare screen to reduce glare on your laptop or monitor.
-* Clear out and archive your old logs before starting a new activation.
-* [JTSync](http://www.dxshell.com/jtsync.html) is a companion program for use with WSJT-X that can be used to set your clock to match another station on the air
+* 更新你的计算机软件并使它们保持最新状态。
+* 使用带有PPS（每秒脉冲）信号的GPS dongle设备用来获取当前准确的时间。 当使用WSJT-X时，这点特别重要。 [BktTimeSync](https://www.maniaradio.it/en/bkttimesync.html) 软件能够从GPS卫星信号中读取当前准确时间，并同步你的计算机时间。
+* 在阴影中操作你电脑或者使用防眩目屏幕来降低你的笔记本电脑或屏幕的眩目程度。
+* 在开始新的激活前，存档并清空你的旧通联日志。
+* [JTSync](http://www.dxshell.com/jtsync.html) 软件是一个与WSJT-X配套使用的程序，用来设置你电脑的时间，以使其和空中的另一个电台同步。
 
 
 # WSJT-X
 
-## Create a new log in WSJT-X
+## 在WSJT-X中创建一个新日志
 
-Before going to a park, setting up a new log within WSJT-X can help simplify your activation.
-By renaming the existing log file, WSJT-X will no longer consider any logged QSOs as "worked before" status. This will allow you to see if hunters or other parks are already in your log for the current UTC day.
+前往公园之前，在 WSJT-X 中设置一个新日志可以帮助简化你的激活过程。 通过重命名现有日志文件，WSJT-X将不再将任何已记录的QSO视为"之前已工作"状态。 这将使你能够看到追逐者或其他公园是否已经在当前 UTC 日的日志中。
 
-You can store logs per park and day by renaming your log files.
+你可以通过重命名日志文件来记录每个公园和日期的日志。
 
-* Stop WSJT-X if it is running
-* Rename the existing wsjtx_log.adif to an archival name. The filename should match the naming convention per POTA log recommendations.
-* Start WSJT-X. It will create a new wsjtx_log.adif once you start logging contacts.
+* 如果WSJT-X正在运行，请关闭
+* 将已有的 wsjtx_log.adif 重命名为一个归档名称。 文件名应该遵守每个空中公园日志建议的命名规则。
+* 重新启动 WSJT-X。 一旦你开始记录，软件将创建一个新的 wsjtx_log.adif 文件。
 
 
-# Use WSJTX-X configurations to manage settings per park
+# 使用 WSJTX-X 配置来管理每个公园的设置
 
-If you travel between multiple locations, you can use the WSJT-X configurations to set park or location-specific settings.
-After you have a working configuration with rig control, etc., you can copy the default configuration to park-specific configurations.
+如果你在多个位置之间旅行，你可以使用 WSJT-X 配置来设置公园或位置。 当你有一个正在工作的电台控制之类的配置项，你可以将默认配置项复制到公园的特定配置中。
 
-* Configuration > Default > Clone
-* Rename the new clone to your Park name or another useful shorthand name.
-* Configuration > (new name) > Switch To
-* Settings > General > My Call (set to correct callsign, if different from your default)
-* Settings > General > My Grid (set to the correct grid square)
-* Settings > Tx Macros:  Add a new macro, ex:   CQ POTA N8SL (GRID). This will be available in the "Tx 5" field of the standard messages.
+* 配置 > 默认> 克隆
+* 将新克隆配置重命名为你的公园名称或另一个短名。
+* 配置 > (新名称) > 切换到
+* 设置 > 常规 > 我的呼号(如果与你的默认呼号不同，则设置为正确的呼号)
+* 设置 > 常规 > 我的网格(设置为正确的网格）
+* 设置 > 自定义文字：添加一个新文字，例如：CQ POTA BH4FCY PM01。 这将在标准信息的 "发射 5" 字段中可用。
 
-Depending on the length of your callsign, you might not have enough characters for the grid square. If so, omit the grid square.
+根据你的呼号长度，你可能没有足够的字符来发送网格信息。 如果是，则可以省略网格信息。
 
-# Logging your QSOs
+# 记录你的QSOs
 
-When you start logging hunters, you can use the comments field of the "Log QSO" window to store your park information. Select the checkbox for "Retain" so you don't have to reenter this information for each QSO.
+当你开始记录追逐者时，你可以使用“记录通联”窗口的备注栏来存储你的公园信息。 选择“Retain”复选框，这样你就不必为每个QSO重新输入此信息。
 
-# Other Digital Modes
+# 其他数码模式
 
-Don't forget that other modes besides FT8 can be used. Each contact with a hunter can count as a unique QSO as long as each QSO's mode is unique. For example, a park activator could work one hunter repeatedly on the same band but using different digital modes, such as PSK31, RTTY, FT8, FT4, etc., on the same UTC day.
+别忘了，还有除了FT8以外的其他数字模式可以使用。 只要每个QSO模式都是独一无二的，和同一个追逐者的通联都可以算作独立的 QSO。 例如，激活空中公园可以在在同一个 UTC 日，在同一波段多次和同一个猎人通联，但使用不同的数字模式， 例如：PSK31、RTTY、FT8、FT4 等模式。
 
-## Feedback
+## 意见反馈
 
-Send any suggestions you may have about this document [please send email to help@parksonthair.com.](mailto:help@parksonthair.com)
+如果你对此文档有任何建议 [请发送电子邮件至 help@parksonthair.com。](mailto:help@parksonthair.com)
 
-## Acknowledgments
+## 致谢
 
-Thanks to all the activators and hunters that participate in the program.
+感谢参与该程序的所有激活者和追逐者。

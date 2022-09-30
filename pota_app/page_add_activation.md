@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Add Activation Popup
-parent: pota.app Help Docs
+title: 添加激活弹窗
+parent: pota.app 帮助文档
 nav_order: 90
 permalink: /pota_app/activations/add.html
 ---
@@ -9,10 +9,10 @@ permalink: /pota_app/activations/add.html
 ![](images/pota-256x256.png)
 
 
-**Table of Contents**
-1. TOC
+**目录**
+1. 目录
 {:toc}
 ---
 
-## Add Activation Popup
-Help Docs Under Construction
+## 添加激活弹窗
+帮助文档正在构建中

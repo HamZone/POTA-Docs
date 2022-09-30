@@ -1,18 +1,18 @@
 ---
 layout: default
-title: Add a Spot Popup
-parent: pota.app Help Docs
+title: 添加一个 Spot 弹窗
+parent: pota.app 帮助文档
 nav_order: 80
-permalink: /pota_app/spots/add.html
+permalink: 80
 ---
 
 ![](images/pota-256x256.png)
 
 
-**Table of Contents**
-1. TOC
+**目录**
+1. 目录
 {:toc}
 ---
 
-## Add a Spot Popup
-Help Docs Under Construction
+## 添加一个 Spot 弹窗
+帮助文档正在构建中

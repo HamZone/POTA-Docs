@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Profile Page
-parent: pota.app Help Docs
+title: 资料页面
+parent: pota.app 帮助文档
 nav_order: 10
 permalink: /pota_app/profile/callsign.html
 ---
@@ -9,10 +9,10 @@ permalink: /pota_app/profile/callsign.html
 ![](images/pota-256x256.png)
 
 
-**Table of Contents**
-1. TOC
+**目录**
+1. 目录
 {:toc}
 ---
 
-## Profile Page
-Help Docs Under Construction
+## 资料页面
+帮助文档正在构建中
