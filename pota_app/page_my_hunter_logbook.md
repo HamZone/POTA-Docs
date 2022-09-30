@@ -1,7 +1,7 @@
 ---
 layout: default
-title: My Hunter Logbook Page
-parent: pota.app Help Docs
+title: 我的猎人日志页面
+parent: pota.app 帮助文档
 nav_order: 50
 permalink: /pota_app/user/logbook.html
 ---
@@ -9,10 +9,10 @@ permalink: /pota_app/user/logbook.html
 ![](images/pota-256x256.png)
 
 
-**Table of Contents**
-1. TOC
+**目录**
+1. 目录
 {:toc}
 ---
 
-## My Hunter Logbook Page
-Help Docs Under Construction
+## 我的猎人日志页面
+帮助文档正在构建中

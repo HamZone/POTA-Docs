@@ -1,7 +1,7 @@
 ---
 layout: default
-title: My Account Page
-parent: pota.app Help Docs
+title: 我的帐户页面
+parent: pota.app 帮助文档
 nav_order: 70
 permalink: /pota_app/user/account.html
 ---
@@ -9,10 +9,10 @@ permalink: /pota_app/user/account.html
 ![](images/pota-256x256.png)
 
 
-**Table of Contents**
-1. TOC
+**目录**
+1. 目录
 {:toc}
 ---
 
-## My Account Page
-Help Docs Under Construction
+## 我的帐户页面
+帮助文档正在构建中

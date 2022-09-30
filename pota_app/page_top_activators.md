@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Top Activators Page
-parent: pota.app Help Docs
+title: 活动者排行页面
+parent: pota.app 帮助文档
 nav_order: 140
 permalink: /pota_app/activators.html
 ---
@@ -9,10 +9,10 @@ permalink: /pota_app/activators.html
 ![](images/pota-256x256.png)
 
 
-**Table of Contents**
-1. TOC
+**目录**
+1. 目录
 {:toc}
 ---
 
-## Top Activators Page
-Help Docs Under Construction
+## 活动者排行页面
+帮助文档正在构建中

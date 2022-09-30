@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Resources and Documents
+title: 资源和文档
 nav_order: 97
 ---
 
-**Parks on the Air® Resources and Documents**
+**空中公园®资源及文档**
 
-## Table of contents
+## 目录
 {: .no_toc .text-delta }
 
 1. TOC
@@ -14,47 +14,48 @@ nav_order: 97
 
 ---
 
-## Documents
-* [POTA paper logging sheet](/assets/documents/POTA_Logsheet_v1.2.pdf)
-* [POTA Tri-Fold Brochure](/assets/documents/brochure.pdf)
-* [N3FJP setup guide](/assets/documents/N3FJPforPOTA.docx)
+## 文档
+* [POTA 纸质日志模板](/assets/documents/POTA_Logsheet_v1.2.pdf)
+* [POTA 介绍手册](/assets/documents/brochure.pdf)
+* [N3FJP （日志软件）设置指南](/assets/documents/N3FJPforPOTA.docx)
 
-## Graphics / Assets
+## 图像/资源
 
-Permission is granted to individuals for personal, non-for-resale, and non-redistributable use of the POTA logo on their own QSL cards, blogs and Youtube thumbnails.
+允许个人在其自身的 QSL 卡、博客和 Youtube 缩略图上使用POTA的标志，但不得转售，也不得重复发布。
 
-> Use of the POTA logo in software and resale of items with the POTA logo requires a license agreement.  Contact POTA for more information.
-{: .pota-yellow-warning}
+> 在软件中使用POTA标志和转售带有POTA标志的物品需要许可协议。  更多信息请联系POTA。 
+> 
+> {: .pota-yellow-warning}
 
-* [POTA Logo for QSL Cards etc.](/assets/documents/logo.png)
+* [用于 QSL 卡等其他用途的 POTA 标志。](/assets/documents/logo.png)
 
-## Social Media Links
+## 社交媒体账号
 * [Slack](https://pota.app/slack)
 * [Mastodon-Fediverse](https://mastodon.radio/@parksontheair)
-* [Twitter](https://mobile.twitter.com/potaspots)
+* [推特（Twitter）](https://mobile.twitter.com/potaspots)
 * [Facebook](https://pota.app/facebook)
 * [Facebook POTA CW for New Ops](https://www.facebook.com/groups/potacw)
 * [Facebook POTA Digital Experimentation group](https://facebook.com/potadigital)
 * [Discord](https://pota.app/discord)
 
-## Parks on the Air websites
-* [Parks On The Air® website](https://www.parksontheair.com)
-* [Parks On The Air® user portal: spots, statistics, logs, etc.](https://pota.app)
+## POTA 网站
+* [空中公园®官网](https://www.parksontheair.com)
+* [空中公园®统计、日志、在线等网站。](https://pota.app)
 
-## Amateur radio sites
+## 业余无线电相关网站
 * [QRZ.com](https://www.qrz.com)
-* [WA7BNM Contest Calendar](http://www.contestcalendar.com)
+* [WA7BNM 比赛日历](http://www.contestcalendar.com)
 * [ARRL](http://www.arrl.org)
-* [Logbook Of The World](http://lotw.arrl.org)
-* [Hamalert: Push/SMS/email notifications for amateur radio spots](https://hamalert.org)
+* [LOTW 日志网站](http://lotw.arrl.org)
+* [火腿提醒：关注呼号推送网站](https://hamalert.org)
 * [DXWATCH.com](https://dxwatch.com)
 * [DXSummit](http://www.dxsummit.fi)
-* [Real time band conditions (on QRZ now)](https://qrznow.com/real-time-band-conditions/amp/)
+* [实时波段预测](https://qrznow.com/real-time-band-conditions/amp/)
 
-## Mapping sites/software
-* [Google Earth](https://earth.google.com)
+## 在线地图网站、软件
+* [谷歌地球](https://earth.google.com)
 * [GaiaGPS](https://www.gaiagps.com/)
 * [OnX Hunt](https://www.onxmaps.com/)
 
-## Others
-* [Leave No Trace website](https://lnt.org)
+## 其它
+* [不留垃圾网站（环保类）](https://lnt.org)

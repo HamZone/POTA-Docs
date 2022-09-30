@@ -1,136 +1,137 @@
 ---
 layout: default
-title: Rules
+title: 规则
 nav_order: 10
 ---
 
-## Table of contents
+## 目录
 {: .no_toc .text-delta }
 
-1. TOC
+1. 目录
 {:toc}
 
 ---
 
-## Rules
+## 规则
 
-| Version      | Date        | Description |
-|:-------------|:------------|:------------|
-| 1.0          | August 2022 | Ported from original site and refactored significantly  |
+| 版本  | 日期         | 描述             |
+|:--- |:---------- |:-------------- |
+| 1.0 | 2022 年 8 月 | 从源站转移并进行了显著的重构 |
 
-> **❗Important:** Participation in Parks on the Air®(POTA) is at your own risk of injury or death. The conditions of your radio license, all local and federal laws, and regulations must be followed; they supersede anything contained in these documents.
-{: .pota-info}
+> **❗重要**：因参与 Parks on the Air®（POTA）所导致的受伤及死亡风险由您自行承担。 您必须遵守您无线电执照的限制及国家和当地的现行法律法规；这些规定高于这些文档中的一切内容。 
+> 
+> {: .pota-info}
 
-At a foundational level, POTA is about radio operators visiting parks and making contacts from within the parks with other radio operators at any location. The following sections go into more detail, formally defining this.
+基本来讲，POTA 是一个关于无线电操作员前往公园并在公园内与任何位于其他地方的无线电操作员建立通联的活动。 以下内容更为详细，并对此给出了正式定义。
 
-### Key Definitions
-- **Activator:** An activator is a licensed amateur radio operator in a park on POTA's designated list and contacts other licensed amateurs.
-- **Hunter:** A hunter is any other licensed radio operator who contacts an activator at a park. The term "chaser" is sometimes synonymously used.
-- **Activity:** The act of an activator visiting a park intending to operate POTA is termed an _activity_.
+### 关键定义
+- **Activator**：Activator 是一名位于 POTA 特定列表中的持证操作员，并负责与其他业余无线电爱好者建立联络。
+- **Hunter**：Hunter 是其他任意一名在公园与 Activator 通联的持证操作员。 “追逐者”与本词同义，有时也被使用。
+- **活动**：一位激活台准备在公园中进行 POTA 操作的行为，被称作_活动_。
 
-### Activations / Attempts
-1. A successful activation requires a minimum of 10 QSOs from a park in the designated list within a single UTC day (Zulu day).
-    * Courteous activators will still submit logs for unsuccessful activations to ensure their hunters get credit for the QSOs.
-    * Multiple activities at the same park in the same state/province/entity and the same UTC day count as a single activation, provided that the ten or more QSOs combined were made.
+### 激活 / 尝试
+1. 要成功激活，必须在一个 UTC 日（Zulu 日）内从指定列表中的公园完成至少 10 个 QSO。
+    * 有礼貌的 Activator 仍会提交未成功激活的日志，以确保 Hunter 能得到 QSO 的分数。
+    * 在同一个省、自治区、直辖市、特别行政区、实体的同一个公园内，并且在同一个 UTC 日内的多个活动将被视为单个活动，前提是一共进行了 10 个或以上的 QSO。
 
-### Eligible QSOs
-1. **Bands/Modes**: All Bands and Modes available to the activator based on their license class may be used in Parks on the Air, according to the details specified in the [logging requirements section](/docs/rules.html#logging-requirements) of this document.
-   * **Note:** POTA is not a contest; POTA QSOs may take place on any amateur band, including the WARC bands (30m/17m/12m).
-2. **Land repeaters are not allowed**: Contacts made via land repeaters are not permitted.
-   * Refer to [Parks on the Air's glossary](/docs/glossary.html) for the definition of a Land Repeater as it pertains to POTA.
-   * You may use a repeater to request direct contacts, but the QSOs submitted for activator credit should not be via a land repeater.
-3. **Satellite repeaters are allowed**: Satellite contacts are permitted.
-   * Refer to [Parks on the Air's glossary](/docs/glossary.html) for the definition of a Satellite Repeater as it pertains to POTA.
-   * Logs should be submitted with the band information for the activator's transmit frequency.
-4. **Spotting**: You may self-spot yourself on the [POTA spotting page](https://pota.app/); anyone (including hunters) can also spot/respot you, regardless of whether they are working that activator.
-   * Spots will disappear from the spotting page approximately 30 minutes after the last spot or if the spot comment marks QRT.
-   * If you are activating a park but also leveraging the QSOs for getting credit for other programs, _e.g., operating from a park for ARRL Field day_, there may be rules against self-spotting in the other program. Please operate in the spirit of the programs.
-5. **Power limits**: POTA does not have a power limit. However, you must still adhere to legal limits based on your license class/band plans and use the minimum transmitter power necessary to carry out the desired communications.
-6. **Fully automated QSOs are prohibited**: Each contact must include direct action by both operators making the contact. Fully automated contacts are prohibited.
+### 符合条件的 QSO
+1. **波段 / 模式**：根据本文档中 [日志记录要求](/docs/rules.html#logging-requirements) 部分内所记录的详情，只要是 Activator 执照级别所允许的任何波段及模式，都可以在 Parks on the Air 中使用。
+   * **注意**：POTA 并不属于竞赛；POTA 通联可以在任何业余波段上进行，包括 WARC 波段（30 m、17 m、12 m）。
+2. **禁止使用地面中继**：禁止经由地面中继建立通联。
+   * 请参阅 [Parks on the Air 词汇表](/docs/glossary.html)，以了解 POTA 对地面中继的定义。
+   * 您可使用中继台请求建立直接联络，但用于提交 Activator 分数的 QSO 不应通过地面中继转发。
+3. **允许使用卫星中继**：允许通过卫星建立通联。
+   * 请参阅 [Parks on the Air 词汇表](/docs/glossary.html)，以了解 POTA 对卫星中继的定义。
+   * 提交的日志应当包括 Activator 发射频率的波段信息。
+4. **Spotting**：您可以在 [POTA spotting 页面](https://pota.app/) 上提交 Self-spot；并且任何人都能 Spot 或 Re-spot 您（包括 Hunter），不论他们是否正在与 Activator 通联。
+   * Spot 会在最后一个 Spot 提交约 30 分钟后或 Spot 被标记为 QRT 时从 Spotting 页面消失。
+   * 如果您正在激活一个公园，但同时利用本次 QSO 在其他项目中取得分数（_例如：在 ARRL Field day 时从公园进行操作_），这可能会违反其他项目有关 Self-spot 的规定。 请遵循其他项目的精神进行操作。
+5. **功率限制**：POTA 不设功率限制。 但您必须符合您执照级别或波段特定的相关法律限制，并在满足通信需要的情况下使用最小的发射功率。
+6. **禁止全自动 QSO**：每次通联都必须通过双方操作员的直接操作进行。 禁止全自动 QSO。
 
-### Activation Location and Access
-1. Activations must be performed from parks in [POTA's designated list](https://pota.app/#/parklist), which are also open to the public.
-    * A park is considered open when the public has civil and legal access, or a special permission/permit to the public lands defined by the park boundary map is obtainable. Such access must comply with any other specific civil or legal restrictions mentioned by the governing agency/website.
-    * A park is closed when the governing agency/website clearly says that public access is prohibited or when the park itself ceases to exist.
-    * Seasonal closure of facilities, concessions, offices, some gates, or even large portions of the park may still allow lawful access to the remainder. If in doubt, please call the park office/administrator.
-2. The activator and all equipment must be within the park's boundary and on public property.
-    * Use maps provided by POTA as guidelines only. Refer to official park websites and agencies to find the official boundaries.
-    * Activations from vehicles, RVs, etc., parked on public property within the park's boundary are permissible.
-    * Aeronautical activations are permitted if the QSOs are made from airspace directly above the park.
-3. Activators may not trespass on private property to access state/provincial, or federal lands.
-4. Activators may not attempt to activate from private property, even if the private property is adjacent to, or surrounded by, park property.
-5. If a trail system or a river is designated as a POTA entity by itself (not as parts of a land park having a defined boundary), the activator and the station equipment must be on public property within 30.5 meters (100 feet) from the edge of the trail or river.
-6. Activations of multiple references ("Multi-loc" or "two-fer," "three-fer," etc.) are permitted with POTA.
-    * Activation Location and Access Rule #1 applies to simultaneous activations. Such a multi-park activation requires an overlapped area where all activated parks' boundaries intersect. The intersection must entirely contain the activator and the station equipment.
-    * A separate log must be submitted for each park of the multi-park simultaneous activation
+### 激活位置及访问权
+1. 必须从 [POTA 指定列表](https://pota.app/#/parklist) 中的公园进行激活，这些公园必须对公众开放。
+    * 当公众拥有民事及法律上的访问权，或者已经取得对公园界限图内定义的公共区域的特殊许可或许可时，这座公园就是开放的。 这类访问必须遵循有关部门或网站所提到的任意其他民法或法律限制。
+    * 若有关部门或网站明确表示这座公园禁止公众访问或公园已不复存在时，这座公园就是关闭的。
+    * 部分设施、地权、办公室、大门，甚至公园大部分地区临时关闭后仍可能准许合法地进入公园的其他部分。 如有疑问，请致电公园管理办公室或管理员。
+2. Activator 和所有设备必须位于公园范围内的公共财产上。
+    * POTA 的地图仅可当作指南。 请查阅公园官网或咨询当地机构以确认公园的界限。
+    * 允许从公园界限内公共财产上停放的如车辆、房车等内部进行激活。
+    * 如果 QSO 是从公园正上方的空域中进行的，则允许在航空器内激活。
+3. Activator 不得擅自侵犯私人财产，以进入省、自治区、直辖市、特别行政区内的领地。
+4. Activator 不得尝试在私人财产内激活，即便私人财产与公园的财产相邻或被公园的财产所包围。
+5. 如果步道系统或者河流本身被定义为 POTA 实体（而不是具有明确界限的陆地公园的一部分），则从 Activator 和台站设备到步道或河流边缘的距离必须在 30.5 米以内。
+6. POTA 允许激活多个引用（如 “Multi-loc” 或 “Two-fer”、“Three-fer” 等）。
+    * 激活位置和访问权规则的第 1 条适用于同时激活。 诸如此类多公园激活需要在所有被激活公园界限相交的重叠区域进行。 Activator 与台站设备必须完全位于相交之位置内。
+    * 多公园同时激活时，必须为每个公园提交单独的日志。
 
-### Hunter Location
-1. The Hunter can contact the activator from home or any other property or station.
-   * If a hunter is also at a [designated POTA park](https://pota.app/#/parklist), this QSO becomes a "Park to Park" (P2P). All other activator rules have to be followed for it to be a valid park to park QSO. See our [Park to park](activator_reference/park_2_park.html) page for more info.
+### Hunter 的位置
+1. Hunter 可以在家中、任何财产及任何台站之中与 Activator 建立通联。
+   * 如果 Hunter 也位于 [POTA 指定的公园](https://pota.app/#/parklist) 之中，本次 QSO 将被视为“公园到公园”（Park to Park，P2P）通联。 必须遵循其他有关 Activator 的规则，才能视作一个有效的公园到公园通联。 请参阅我们的 [公园到公园](activator_reference/park_2_park.html) 页面，以获取更多信息。
 
-### Logging Requirements
-1. Logs have to be submitted following the logging requirements documented below to count as a valid activation.
-   * Hunters do not submit logs to the program. Only activators do. Hunters earn credit through the activator's logs.
-2. There are no time limits for log submission.
-   * Courteous operators upload their logs without excessive delay, as hunters depend on the activator's log for credit/awards.
-3. One log can cover multiple activity days but should be for only one park. This also applies to club and multiple-operators activities.
-4. Logs must be in ADIF format, with exceptions identified at the end of this section.
-    * See the [Activator Reference Section](activator_reference/submitting_logs.html) for a detailed description of how we use these ADIF fields.
-    * **Required Fields:**
-        - `<STATION_CALLSIGN>` or `<OPERATOR>`
-            - Club/group logs must include both `<STATION_CALLSIGN>` AND `<OPERATOR>` fields for each QSO, with the `<STATION_CALLSIGN>` field containing the club or group's callsign
-            - Individual logs should contain the same call in both fields or include only one of the fields
+### 日志记录要求
+1. 必须按照如下所述的日志记录要求提交日志，才能算作一个有效激活。
+   * Hunter 不需要向本项目提交日志。 只有 Activator 才需要提交日志。 Hunter 将通过 Activator 提交的日志获取分数。
+2. 提交日志没有时间限制。
+   * 有礼貌的操作员会迅速上传他们的日志，因为 Hunter 需要依靠 Activator 的日志来取得分数或奖项。
+3. 一份日志可以包括多个活动日，但只能用于一个公园。 本规则同样适用于协会及多操作员活动。
+4. 日志必须采用 ADIF 格式，除非符合本节末尾中的例外情况。
+    * 关于我们如何利用这些 ADIF 字段的详细说明，请参阅 [Activator 参考](activator_reference/submitting_logs.html) 部分。
+    * **必填字段：**
+        - `<STATION_CALLSIGN>` 或 `<OPERATOR>`
+            - 协会、集体台日志中的每个 QSO 必须同时包含 `<STATION_CALLSIGN>` 和 `<OPERATOR>` 字段，`<STATION_CALLSIGN>` 字段应当包含协会或集体台的呼号。
+            - 在个人日志中，两个字段应当相同或仅包含一个字段。
         - `<CALL>`
         - `<QSO_DATE>`
         - `<TIME_ON>`
         - `<BAND>`
-        - `<MODE>` or `<SUBMODE>`
-          - POTA stores a single mode field. If both Mode and Submode are provided, submode supersedes mode
-    * **Optional Fields:**
+        - `<MODE>` 或 `<SUBMODE>`
+          - POTA 仅采纳一个模式字段。 如果同时提供 Mode 和 Submode 字段，则 Submode 中的内容会取代 Mode 中的内容。
+    * **可选字段：**
         - `<MY_SIG>`
         - `<MY_SIG_INFO>`
         - `<SIG>`
         - `<SIG_INFO>`
         - `<MY_STATE>`
-    * Exceptions to ADIF Accepted by POTA
-        - POTA accepts `<BAND>` of 'SUBMM' for Sub-millimeter wavelength contacts
-5. Club or group logs must be uploaded via a POTA account designated for the club/group, not via an individual's account
-6. Invalid QSOs in the log will be rejected
-   * Duplicate QSOs will be rejected by the upload tool.
-   * For POTA, the uniqueness of a QSO is determined by the combination of:
-       * User account that the log was uploaded under (i.e., owner of the `<STATION_CALLSIGN>`), `<CALL>`, `<MODE>`, `<QSO_DATE>`, `<BAND>`, `<MY_SIG_INFO>`, `<SIG_INFO>`, Location (Chosen at time of upload if park crosses state lines)
-   * `<CALL>` may not be the same as `<STATION_CALLSIGN>` or `<OPERATOR>` (i.e., a station or operator cannot work themselves)
-   * QSOs cannot be dated in the future.
+    * POTA 允许的 ADIF 例外情况：
+        - POTA 允许在亚毫米波段通联的 `<BAND>` 字段中填写 'SUBMM'。
+5. 协会或集体台的日志必须通过协会、集体台指定的 POTA 账户上传，不得使用个人账户上传。
+6. 日志中的无效 QSO 将被驳回。
+   * 上传工具会驳回重复的通联记录。
+   * 对于 POTA 来说，通联纪录的唯一性由下列组合决定：
+       * 上传日志的用户账户（即 `<STATION_CALLSIGN>` 的持有者）、`<CALL>`、`<MODE>`、`<QSO_DATE>`、`<BAND>`、`<MY_SIG_INFO>`、`<SIG_INFO>`、位置（如果公园跨越行政区划界限，请在上传时选择）。
+   * `<CALL>` 不应与 `<STATION_CALLSIGN>` 或 `<OPERATOR>` 相同（即台站或操作员不能与自身建立通信）。
+   * QSO 的日期不得在未来。
 
-> 💡 **Note:** If the information documented in the rules section differs from information provided elsewhere on the site(guides etc.), the rules section will take precedence. Please send us a note at [help@parksontheair.com](mailto:help@parksontheair.com) to inform us about the inconsistency.
+> **注意**：如果规则部分中记录的信息与网站其他部分（如指南）记录的信息不同，则以规则部分为准。 发现不同时，请发送邮件至 [help@parksontheair.com](mailto:help@parksontheair.com) 通知我们。
 
-## Additional notes / guidance
+## 附加注记 / 指南
 
-### Parks on the Air does not require a specific exchange in a QSO.
+### Parks on the Air 不需要在通联中交换额外的信息。
 
-### Qualification of Parks, Trails, and Rivers for Addition to Parks on the Air
-1. All new parks must be owned and operated by a State/Provincial or Federal/National agency. We do not include parks that have part/shared ownership, sponsorship, or are operated by private organizations or local governments
-2. To be considered for inclusion, the park must meet the above requirements and offer an informational website detailing current boundary maps.
-3. POTA does not create sub-parks within existing parks if both parks are owned and operated by the same State/Provincial or Federal/National agency.
+### 可被添加至 Parks on the Air 中的公园、步道及河流的要求
+1. 所有新添加的公园必须由省、自治区、直辖市、特别行政区或国家机构所有并运营。 我们不会添加任何拥有部分或共享所有权的、赞助的或是由私人组织及地方政府运营的公园。
+2. 要添加公园，这座公园必须满足上述要求，并提供详细介绍公园界限信息的网站。
+3. 如果两个公园是由同一个省、自治区、直辖市、特别行政区或国家机构所有并运营的，POTA 将不会在现有公园内创建子公园。
 
-### Reporting Violations of the Rules
-Parks on the Air is a self-regulated, community-monitored program. If you observe a violation of these rules that you feel need to be followed up on, you may report the violation to [help@parksontheair.com.](mailto:help@parksonthair.com) You must provide enough details to prove without a doubt that the violation occurred before any action will be taken.
+### 报告违反规则的情况
+Parks on the Air 是一个依靠自律和社区监管的项目。 如果您发现了任何需要上报的违规行为，请向 [help@parksontheair.com](mailto:help@parksonthair.com) 报告违规行为。在任何处罚进行前，您必须提供足够的证据以证明违规行为。
 
-### Park Access & Information
-If a listed park is permanently closed, public access is prohibited per the Park Access Section of these Rules, the park no longer exists, you are told you are not allowed to operate, or any of the information about the park needs to be updated, please report it to [help@parksontheair.com.](mailto:help@parksonthair.com)
+### 公园访问权与信息
+如果列出的公园已经永久关闭，根据本规则的公园访问权部分，公园已不复存在；或者您被告知不允许在此操作，或遇到任何有关公园的信息需要更新，请将其报告至 [help@parksontheair.com](mailto:help@parksonthair.com)。
 
-### Guidelines, Interpretation & Intent
-Parks on the Air has kept its rules simple because the idea is just to get out and have fun. For some individuals, though, this can be somewhat ambiguous, so this document section provides guidelines on POTA administrators' and developers' intent when setting up the system. Deviating from these guidelines won't get you in any trouble, but it may cause your stats and awards to behave differently than what you and others may expect.
+### 方针、解释及目的
+Parks on the Air 始终保持规则尽可能地简单，因为我们的意图是让人出门并玩得开心。 但对于某些人来说，这可能会造成疑惑；因此这一部分会提供关于 POTA 管理员及开发者建立系统时的意图。 偏离这些方针不会为您带来任何麻烦，但可能导致您的统计数据及奖项与您和他人预期中的不同。
 
-#### Park Boundaries and Multi-Park Activations
-Please be aware of the beauty in the simplicity of the rule "the activator and all equipment must be within the park's boundary and on public property." If an activator is straddling the park or state lines, they are, therefore, not fully within the boundary and are out of compliance with the rule. Similarly, for multi-park activations, the activator and all equipment must be entirely within the bounds of each park being claimed, so multi-park activations can only occur if the activator is physically located in an intersection where all the claimed parks overlap.
+#### 公园界限和多公园激活
+请留意“Activator 和所有设备必须位于公园范围内的公共财产上”这一简单规则的美妙之处。 如果 Activator 跨越了公园或行政区的界线，那么它们就并非完全位于界限内，并且违反了规则。 同样的，对于多公园激活，激活台和所有设备必须完全位于每个公园被声明的范围之内。因此，只有当 Activator 位于所有被声明公园重叠并相交的位置时，才能进行多公园激活。
 
-#### Clubs & Multiple Operators
-In general, individuals should not use each other's callsigns on the air but instead, use a club or special event call in situations with multiple operators. The club or special event call should be used over the air (just like field day!) and be recorded in the `<STATION_CALLSIGN>` field. The individual who made the contact should record their callsign (Generally not used over the air) in the `<OPERATOR>` field. Once uploaded to the account for the holder of the `<STATION_CALLSIGN>` (see [logging requirements section 3](/docs/rules.html#logging-requirements)), the system will count the QSO(s) towards awards for both the holder of the `<STATION_CALLSIGN>` and for the holder of the `<OPERATOR>` callsign.
+#### 协会与多操作员
+一般情况下，在有多个操作员时，个人不得在通联时使用彼此的呼号，而是应该使用协会或特殊活动的呼号。 通联时应该使用协会或者特殊活动的呼号（就像 Field day 一样），并记录在 `<STATION_CALLSIGN>` 字段中。 建立通联的个人应当在 `<OPERATOR>` 字段中记录他们的呼号（通常不在通联时使用）。 只要上传日志到 `<STATION_CALLSIGN>` 持有人的账户上（参见 [日志记录要求第 3 部分](/docs/rules.html#logging-requirements)），系统就会同时将奖项计入 `<STATION_CALLSIGN>` 和 `<OPERATOR>` 呼号的持有者的 QSO 上。
 
-Please refer to POTA's [Guide for Clubs](/docs/activator_reference/activator_guide_clubs.html) for our recommended practices for planning, conducting, and spotting for club or group activations.
+请参阅 POTA 的 [协会指南](/docs/activator_reference/activator_guide_clubs.html)，以了解我们建议的协会或集体台的计划、开展及 Spotting 方法。
 
 ##### Passing the Mic
-When multiple individuals are activating together but not under a club call, the operators may choose to 'pass the mic' and take turns making contacts. In these situations, each individual should maintain and submit their own log according to the [logging requirements section](/docs/rules.html#logging-requirements) of these rules
+当多个个人同时激活但并非进行协会呼叫时，操作员们可以选择“Pass the mic”并轮流进行通联。 在这种情况下，每个人都应遵守本规则中的 [日志记录要求](/docs/rules.html#logging-requirements) 部分，维护并提交自己的日志。
 
-A minimum necessary deviation from the guidelines may be made to accommodate an operator with a disability in club and multiple-operator activations and the practice of passing the mic within the country's rules and regulations.
+可以在满足需要时最低限度地偏离方针，以适应协会和多操作员活动中残障人士操作员及国家和法规范围内对于 Passing the mic 做法的限制。

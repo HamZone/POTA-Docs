@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Map Page
-parent: pota.app Help Docs
+title: 地图页面
+parent: pota.app 帮助文档
 nav_order: 120
 permalink: /pota_app/map.html
 ---
@@ -9,10 +9,10 @@ permalink: /pota_app/map.html
 ![](images/pota-256x256.png)
 
 
-**Table of Contents**
-1. TOC
+**目录**
+1. 目录
 {:toc}
 ---
 
-## Map Page
-Help Docs Under Construction
+## 地图页面
+帮助文档正在构建中
