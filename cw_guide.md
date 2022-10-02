@@ -1,28 +1,28 @@
 ---
 layout: default
-title: CW Guide
+title: CW 通联指南
 nav_order: 52
 nav_exclude: false
 ---
 
-**Parks on the Air® CW Guide**
+**空中公园® CW 通联指南**
 
 ![](/assets/images/pota-256x256.png)
 
-Original Author: AB1WX
+原作者: AB1WX
 
-**Table of Contents**
+**目录**
 1. TOC
 {:toc}
 
 
-# POTA CW QSOs
+# POTA CW 通联
 
-POTA does not require any specific exchange in a QSO. So, the POTA QSOs can be a super-fast contest style or a ragchew style, but most POTA QSOs are polite, unrushed, and concise.
+POTA 不需要在 QSO 中添加任何特定的交换信息。因此，POTA 的 QSO 可以像比赛一样快速或像大爷下棋一样缓慢，但大多数 POTA 的 QSO 是基于礼貌、简洁和淡定自如的。
 
-POTA QSOs often include simple greetings, like "GM," "GA," or "GE," and sometimes the CW handle or the first name if you know them. QSOs usually include a realistic RST signal report, not a perfunctory 559 or 599. Hunters usually send their QTH (two-letter state code for the US and Canada), but DX hunters may use established State/Province/Country codes (e.g., SKCC has a list) or omit the QTH.
+POTA 的 QSO 通常包括简单的问候语，像是 "GM" "GA" 或是 "GE," 或者是 CW 昵称（如果你知道的话）。通联时通常会给出真实的 RST 信号报告，而不是敷衍了事的 559 或 599。追逐台通常会在 QSO 时发送他们的 QTH (美国和加拿大的两个字母的州代码)，但DX追逐台可以使用既定的州/省/国家代码（例如 SKCC 有一个列表）或省略QTH。
 
-POTA QSOs usually end with brief but proper 73s. Activators often use the hunter's QTH code as if it were the hunter's handle, as in "TU CA 73 e e."
+POTA 的 QSO 通常以简短而恰当的 73 来结束通联。 激活台经常使用追逐台的 QTH 代码，就如同猎人的手柄，比如 "TU CA 73 e e"
 
 Other than that, POTA QSOs are perhaps similar to brief and simple DX QSOs.
 
